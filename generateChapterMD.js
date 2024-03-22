@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const URL = 'https://github.com/Tdahuyou/yuque-public/blob/qwerty-learner-tools/dict'
+const URL = 'https://github.com/Tdahuyou/qwerty-learner-tools/blob/main/dict'
 
 /* 章节自测列表 */
 function generateChapterMD(all_words, file_path, basename) {
