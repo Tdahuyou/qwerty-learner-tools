@@ -99,7 +99,7 @@ https://github.com/kajweb/dict
 
 比如，2.zip 是由脚本 2.js 提取所得 —— 将所有单词本中的词汇提取出来，按照字母为文件夹进行分组。
 
-![1.zip 的内容](1.zip.png)
+![2.zip 的内容](2.zip.png)
 
 > ![Alt text](github.error.png)
 >
